@@ -4,3 +4,4 @@
 
 # Build Artefacts
 **/cmake*
+!CMakeLists.txt
