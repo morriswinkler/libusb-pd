@@ -1,0 +1,6 @@
+# IDE
+**/*.iml
+**/.idea
+
+# Build Artefacts
+**/cmake*
